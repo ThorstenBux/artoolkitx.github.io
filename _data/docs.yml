@@ -4,8 +4,8 @@
   - about
   - team
 
-# - title: Examples
-#   docs:
-#   - cheatsheet
-#   - font-awesome
-#   - bootstrap
+- title: 维基
+  docs:
+  - wiki/home
+  - wiki/introduction
+  - wiki/system requirements
